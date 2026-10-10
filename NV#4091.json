@@ -1,0 +1,28 @@
+{
+    "generate": true,
+    "os_info": {
+        "name": "Windows",
+        "version": "10.0.26200",
+        "machine": "AMD64"
+    },
+    "python": {
+        "installed": true,
+        "version": "3.10.21"
+    },
+    "numpy": {
+        "installed": true,
+        "version": "2.2.6"
+    },
+    "opencv": {
+        "installed": true,
+        "version": "5.0.0"
+    },
+    "coppeliasim": {
+        "installed": true,
+        "path": "C:\\Program Files\\CoppeliaRobotics\\CoppeliaSimPro\\coppeliaSim.exe"
+    },
+    "kp_value": 6.0,
+    "meta": {
+        "evaluation_time": 7.656463146209717
+    }
+}
